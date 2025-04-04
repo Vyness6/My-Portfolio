@@ -27,7 +27,7 @@ nav{
    flex-wrap: wrap;
 }
 .logo{
-    width: 140px;
+    width: 150px;
 }
 nav ul li{
     display: Inline-block;
@@ -54,7 +54,7 @@ nav ul li a::after{
     margin-top:20px;
     font-size:30px;
 }
-.header-text hi{
+.header-text h1{
     font-size:60px;
     margin-top:20px;
 }
