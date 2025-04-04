@@ -207,7 +207,7 @@ nav ul li a:hover::after{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: o 40px;
+    padding: 0 40px;
     text-align: center;
     font-size: 14px;
     transition:height 0.5s;
@@ -299,5 +299,13 @@ form input, form textarea{
 }
 /* ----------css for small screens------------*/
 @media only screen and (max-width: 600px){
+      #header-text{
+        margin-top: 100%;
+        font-size: 16px;
+    }
+    .header-text{
+        font-size: 40px;
+    }
+
 
 }
